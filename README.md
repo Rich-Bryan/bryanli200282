@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bryanli200282
-- 👀 I’m interested in the stock market(trading and investing)
-- 🌱 I’m currently learning computer sciense/ coding
+- 👋 Hi, I’m Bryan 
+- 👀 I’m a computer sciecnce major at Temple University
+- 🌱 I’m currently learning low level programming
 
 
 
